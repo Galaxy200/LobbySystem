@@ -1,0 +1,5 @@
+name: LobbySystem
+author: MnkyArts
+version: 1.0
+
+main: me.mnkyarts.main.main
